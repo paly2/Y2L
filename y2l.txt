@@ -27,7 +27,7 @@ Le code source de tout programme publié sous license Y2L pourra être étudié,
 
 Article 6
 
-Tout programme publié sous license Y2L pourra être copié. Les copies pourront être redistributées, et, si redistribuées, devront être redistribuées sous license Y2L.
+Tout programme publié sous license Y2L pourra être copié. Les copies pourront être redistribuées, et, si redistribuées, devront être redistribuées sous license Y2L.
 
 Article 7
 
@@ -43,64 +43,68 @@ Le code source d'un programme sous license Y2L étant considéré comme faisant 
 
 Article 10
 
-Le créateur d'un programme peut donner l'autorisation à un développeur de modifier directement la source officielle du programme. Cette autorisation peut être valable pour une seule fois à titre exceptionnel, ou pour une durée inderminée pendant laquelle le développeur pourra effectuer autant de modifications que souhaité.
-En revanche, les développeurs ayant reçu une telle autorisation ne pourront pas décider un changement du numéro de version du programme sans l'autorisation du créateur.
+Le développeur principal d'un programme peut donner l'autorisation à un autre développeur de modifier directement la source officielle du programme. Cette autorisation peut être valable pour une seule fois à titre exceptionnel, ou pour une durée déterminée ou inderminée pendant laquelle le développeur pourra effectuer autant de modifications que souhaité.
+En revanche, les développeurs ayant reçu une telle autorisation ne pourront pas décider un changement du numéro de version du programme sans l'autorisation du développeur principal.
 
 Article 11
 
-Un développeur a le droit de proposer au créateur une modification (sauf dans le cas présenté par l'article 16), et le créateur a l'obligation d'étudier les modifications proposées avant de les accepter ou de les rejeter.
-Un développeur ne peut pas effectuer une modification directement sur la source officielle sans l'autorisation explicite du créateur (voir article 10).
+Quiconque peut proposer au développeur principal une modification (sauf dans le cas présenté par l'article 16), et le développeur principal a l'obligation d'étudier les modifications proposées avant de les accepter ou de les rejeter. Le développeur principal n'est en aucun cas obligé d'accepter les modifications proposées.
+Personne ne peut effectuer une modification directement sur la source officielle sans l'autorisation explicite du développeur principal (voir article 10).
 
 Article 12
 
-Le créateur d'un programme sous license Y2L peut donner des autorisations spéciales à des développeurs ou des utilisateurs de ce programme, pourvu que ces autorisations n'entrent pas en contradiction avec les interdictions ou obligations imposées par la license Y2L.
+Le développeur principal peut annuler des modifications qui lui avaient été proposées et qu'il avait acceptées s'il juge par la suite qu'il s'agissait de détériorations.
+Le développeur principal est obligé d'indiquer avec le programme les noms de toutes les personnes qui ont proposé des modifications acceptées et non annulées.
 
 Article 13
 
-Le créateur d'un programme publié sous license Y2L peut, s'il décide d'arrêter le développement de son programme, transmettre son statut à une autre personne ; qui ne sera plus nommée "créateur" mais "développeur principal". Celle-ci obtiendra donc tous les droits du créateur tels qu'ils sont indiqués dans le texte de la license Y2L, aux uniques différences que :
-- Le nouveau développeur principal ne pourra en aucun cas prétendre être le créateur initial du programme ; dont le nom devra toujours être indiqué de la même façon sur les programmes.
-- Le créateur initial pourra reprendre son statut à n'importe quel moment et pour n'importe quelle raison ; mais il ne pourra pas cacher que le programme aura connu un autre développeur principal.
-
-La transmission de droits devra être notée avec le programme (si possible dans le même fichier que celui où sont indiqués le créateur et les développeurs) et acceptée par le créateur initial ET par le nouveau développeur principal.
+Le développeur principal d'un programme sous license Y2L peut donner des autorisations spéciales à des développeurs ou des utilisateurs de ce programme. La trace de ces autorisations devra être conservée dans un ou plusieurs fichier(s) physique(s) et/ou virtuel(s), sans quoi leur valeur sera nulle. Ces autorisations pourront alors annuler des interdictions imposées par la license Y2L, sauf s'il est précisé dans la phrase où elles sont formulées les mots "en aucun cas".
 
 Article 14
 
-En cas d'obligation ou d'interdiction imposée par la loi, par une décision de justice, ou autre ; portant sur un programme publié sous license Y2L :
-- Si cette obligation ou interdiction porte atteinte à la gratuité ou à la liberté du programme : voir article 15.
-- Si cette obligation ou interdiction s'oppose à une obligation ou interdiction imposée par la license Y2L (sans porter atteinte à la gratuité ou à la liberté du programme), le programme devra changer de license (changement qui ne peut s'opérer que par le créateur du programme) ou arrêter sa distribution.
-- Si cette obligation ou interdiction peut s'ajouter à celles imposées par la license Y2L sans former de contradictions, le développement et la distribution du programme pourront continuer sous les obligations et interdictions en question ET celles imposées par la license Y2L.
+Le développeur principal d'un programme publié sous license Y2L peut, s'il décide d'arrêter le développement de son programme, transmettre son statut de développeur principal à une autre personne. Celle-ci obtiendra donc tous les droits du développeur principal tels qu'ils sont indiqués dans le texte de la license Y2L, aux uniques différences que :
+- Le nouveau développeur principal ne pourra en aucun cas prétendre être le créateur initial du programme ; dont le nom devra toujours être indiqué de la même façon sur les programmes.
+- Le développeur principal initial pourra reprendre son statut à n'importe quel moment et pour n'importe quelle raison ; mais il ne pourra pas cacher que le programme aura connu un autre développeur principal.
+
+La transmission de droits devra être notée avec le programme (si possible dans le même fichier que celui où sont indiqués le développeur principal et les développeurs) et acceptée par le développeur principal initial ET par le nouveau développeur principal.
 
 Article 15
 
-En cas d'obligation ou d'interdiction imposée par la loi, par une décision de justice, ou autre ; PORTANT ATTEINTE À LA GRATUITÉ OU À LA LIBERTÉ D'UN PROGRAMME PUBLIÉ SOUS LICENSE Y2L, CE PROGRAMME DEVRA TOTALEMENT ARRÊTER SON DÉVELOPPEMENT ET SA DISTRIBUTION. IL NE POURRA NI CHANGER DE LICENSE, NI ÊTRE REPRIS PAR UNE PERSONNE/SOCIÉTÉ DIFFÉRENTE, NI ÊTRE REDISTRIBUÉ SOUS UN NOM IDENTIQUE OU DIFFÉRENT AVEC UN CODE MODIFIÉ OU NON, NI N'IMPORTE QUELLE ACTION QUI DÉCOULE DE CET ARRÊT TOTAL (propositions de modifications, autorisations données par le créateur, etc) ; ET CE JUSQU'À CE QUE L'INTERDICITION OU OBLIGATION IMPOSÉE NE SOIT LEVÉE. QUICONQUE PUBLIE UN PROGRAMME SOUS LICENSE Y2L S'ENGAGE DONC À RESPECTER CES INTERDICTIONS QUELLES QUE SOIENT LES CIRCONSTANCES SI UN TEL CAS SURVIENT.
+En cas d'obligation ou d'interdiction imposée par la loi, par une décision de justice, ou autre ; portant sur un programme publié sous license Y2L :
+- Si cette obligation ou interdiction porte atteinte à la gratuité ou à la liberté du programme : voir article 16.
+- Si cette obligation ou interdiction s'oppose à une obligation ou interdiction imposée par la license Y2L (sans porter atteinte à la gratuité ou à la liberté du programme), le programme devra changer de license (changement qui ne peut s'opérer que par le développeur principal du programme) ou arrêter sa distribution.
+- Si cette obligation ou interdiction peut s'ajouter à celles imposées par la license Y2L sans former de contradictions, le développement et la distribution du programme pourront continuer sous les obligations et interdictions en question ET celles imposées par la license Y2L.
 
 Article 16
 
-En cas de violation de la license Y2L :
-- Si cette violation est effectuée par le créateur du programme, le droit de porter la license Y2L sera retiré au programme et le programme devra changer de license.
-- Si cette violation est effectuée par un autre développeur du programme, son droit de développer, d'exécuter le programme et de proposer des modifications lui seront retirés.
-- Si cette violation est effectuée par un utilisateur du programme, son droit d'exécuter, de développer le porgramme et de proposer des modifications lui seront retirés.
-- Si cette violation est effectuée par la loi, voir article 14.
+En cas d'obligation ou d'interdiction imposée par la loi, par une décision de justice, ou autre ; PORTANT ATTEINTE À LA GRATUITÉ OU À LA LIBERTÉ D'UN PROGRAMME PUBLIÉ SOUS LICENSE Y2L, CE PROGRAMME DEVRA TOTALEMENT ARRÊTER SON DÉVELOPPEMENT ET SA DISTRIBUTION. IL NE POURRA NI CHANGER DE LICENSE, NI ÊTRE REPRIS PAR UNE PERSONNE/SOCIÉTÉ DIFFÉRENTE, NI ÊTRE REDISTRIBUÉ SOUS UN NOM IDENTIQUE OU DIFFÉRENT AVEC UN CODE MODIFIÉ OU NON, NI EFFECTUER N'IMPORTE QUELLE AUTRE ACTION CORRESPONDANT À UN DÉVELOPPEMENT OU UNE DISTRIBUTION DU PROGRAMME (propositions de modifications, autorisations données par le développeur principal, etc). QUICONQUE PUBLIE UN PROGRAMME SOUS LICENSE Y2L S'ENGAGE DONC À RESPECTER CES INTERDICTIONS QUELLES QUE SOIENT LES CIRCONSTANCES SI UN TEL CAS SURVIENT. CES INTERDICTIONS NE POURRONT EN AUCUN CAS ÊTRE LEVÉES TANT QUE L'INTERDICTION OU L'OBLIGATION EN CAUSE EXISTERA.
 
 Article 17
 
-Le texte de license Y2L devra toujours être joint avec un programme publié sous license Y2L.
-Les noms de toute les personnes ayant directement permit une amélioration, de nature quelconque, à un programme publié sous license Y2L devront être indiqués dans un fichier fournit avec le programme (il n'est pas nécessaire que ce fichier soit réservé à cette liste de noms).
+En cas de violation de la license Y2L :
+- Si cette violation est effectuée par le développeur du programme, le droit de porter la license Y2L sera retiré au programme et le programme devra changer de license ou arrêter son développement.
+- Si cette violation est effectuée par un autre développeur ou par un utilisateur du programme, son droit de développer, d'exécuter le programme et de proposer des modifications lui seront retirés.
+- Si cette violation est effectuée par la loi, voir article 15.
 
 Article 18
 
-Dans le cas où un programme publié sous license Y2L contiendrait des éléments portant des licenses différentes, ils pourront garder leur license originale et ne seront pas soumis aux termes de la license Y2L ; sauf ces licenses différentes ne sont pas libre dans leur intégralité.
-Il est possible d'introduire des licenses variées dans un programme globalement publié sous license Y2L ; sauf si ces licenses ne sont pas libres et gratuites. De même, il est possible d'introduire un ou plusieurs éléments sous license Y2L dans un programme globalement publié sous une autre license, pourvu que cette license soit libre.
+Le texte de license Y2L devra toujours être joint avec tous les programmes publiés sous license Y2L.
+Les noms de toutes les personnes ayant directement permis une amélioration (le développeur principal étant le seul à pouvoir juger de ce qui est amélioration ou détérioration, voir article 12), de nature quelconque, à un programme publié sous license Y2L devront être indiqués dans un fichier fournit avec le programme (il n'est pas nécessaire que ce fichier soit réservé à cette liste de noms).
 
 Article 19
 
-La license Y2L ne peut s'appliquer qu'à des programmes.
-Est considéré comme programme tout ensemble de fichiers qui peut être exécuté, avec ou sans compilation, avec ou sans fichiers complémentaires (images, sons, etc). Les fichiers complémentaires de programmes peuvent aussi prendre séparément la license Y2L dans un autre programme (voir article 18), mais dans ce cas, la notion de droit d'exécution abordée dans ce texte sera ignorée.
+Dans le cas où un programme publié sous license Y2L contiendrait des éléments portant des licenses différentes, ils pourront garder leur license originale et ne seront pas soumis aux termes de la license Y2L ; sauf ces licenses différentes ne sont pas complément libres.
+Il est possible d'introduire des licenses variées dans un programme globalement publié sous license Y2L ; sauf si ces licenses ne sont pas libres. De même, il est possible d'introduire un ou plusieurs éléments sous license Y2L dans un programme globalement publié sous une autre license, pourvu que cette license soit libre.
 
 Article 20
 
-Tout ce qui n'est pas explicitement ou implicitement interdit ou obligé dans ce texte de license est autorisé.
+La license Y2L ne peut s'appliquer qu'à des programmes.
+Est considéré comme programme tout ensemble de fichiers qui peut être exécuté, avec ou sans compilation, avec ou sans fichiers complémentaires (images, sons, etc). Les fichiers complémentaires de programmes peuvent aussi prendre séparément la license Y2L dans un autre programme (voir article 19), mais dans ce cas, la notion de droit d'exécution abordée dans ce texte de license sera ignorée.
 
 Article 21
+
+Tout ce qui n'est pas explicitement ou implicitement interdit ou obligé dans ce texte de license est simplement autorisé.
+
+Article 22
 
 LA LICENSE Y2L NE DONNE AUCUNE GARANTIE EN CAS DE CONFLIT D'UN PROGRAMME AVEC LA LOI, DE PROBLÈME DÛ À UN PROGRAMME PUBLIÉ SOUS LICENSE Y2L, OU DE TOUT AUTRE ÉVÉNEMENT NON ABORDÉ DANS LE TEXTE DE LA LICENSE.
